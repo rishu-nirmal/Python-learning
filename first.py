@@ -130,3 +130,74 @@
 
 # a = "hello everyone this is a great feeling\nwriting codes \\with \"python\""
 # print(a)
+
+# List and Tuples;
+
+# a = ["alex", "justin", 7, 99.99, "Cristiano", True]
+
+# print(a[3])
+# print(a[:4])
+
+# Methods in list;
+
+# a = [1, 2, 3, 4, 5 ,6, 7, 8, 9] # To replace a string from the list use this function
+
+# print(a)
+
+# a = [1, 2, 3, 4, 5 ,6, 7, 8, 9]
+
+# a.append("Hello")
+
+# print(a)
+
+# a = [36, 45, 89, 25, 79, 53, 99]
+# a.sort()
+# a.sort(reverse=True)
+# print(a)
+
+# Pop function
+
+# fruits = ["apple", "mango", "banana", "litchi"] 
+# last_item = fruits.pop()
+
+# print(last_item)
+
+# numbers = [36, 45, 89, 25, 79, 53, 99]
+
+# numbers.insert(45, 99)
+
+# print(numbers)
+
+# Tuples
+
+# numbers = (1, 3, 7, 8, 7, 5, 4, 6, 8, 5, 7)
+
+# amount = numbers.count(7)
+
+# print(amount)
+
+# place = numbers.index(8)
+
+# print(place)
+
+# Methods in tuples
+
+# tuple_1 =(1, 2, 3, 4, 5, 6, 7, 8)  # Concatenation
+# tuple_2 = (9, 0)
+
+# combine = tuple_1 + tuple_2
+# print(combine)
+
+# Built in funcn with tuples
+
+# scores = (45, 82, 19, 71)
+
+# print(len(scores))
+# print(sum(scores))
+# print(max(scores))
+# print(min(scores))
+
+# Repetiton of tuples 
+
+# echo = ("Bonjour",) * 3 
+# print(echo)
