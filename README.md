@@ -8,7 +8,8 @@ Welcome! This repository is a cozy space where I track my daily progress as I le
 * **Day 1**: Learned variables and outputs.
 * **Day 2**: Learned strings and it's types.
 * **Day 3**: Learned about lists and tuples.
-* **Day 4**: Learned dictionaries and Sets
-* **Day 5**: started with conditional expressions 
+* **Day 4**: Learned dictionaries and Sets.
+* **Day 5**: Started with conditional expressions.
+* **Day 6**: learned conditional expressions with lots of practice
 ---
 *“Consistency is key!”* 💻
