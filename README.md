@@ -13,6 +13,7 @@ Welcome! This repository is a cozy space where I track my daily progress as I le
 * **Day 6**: learned conditional expressions with lots of practice
 * **Day 7**: Started with loops.
 * **Day 8**: Completed loops and started with functions.
-* **Day 9**: Worked more with functions
+* **Day 9**: Worked more with functions.
+* **Day 10**: Completed functions.
 ---
 *“Consistency is key!”* 💻
