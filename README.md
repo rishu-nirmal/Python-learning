@@ -15,5 +15,6 @@ Welcome! This repository is a cozy space where I track my daily progress as I le
 * **Day 8**: Completed loops and started with functions.
 * **Day 9**: Worked more with functions.
 * **Day 10**: Completed functions.
+* **Day 11**: Started with basic game building.
 ---
 *“Consistency is key!”* 💻
