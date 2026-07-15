@@ -17,5 +17,6 @@ Welcome! This repository is a cozy space where I track my daily progress as I le
 * **Day 10**: Completed functions.
 * **Day 11**: Started with basic game building.
 * **Day 12**: Working on it.
+* **Day 13**: Started with file I/O
 ---
 *“Consistency is key!”* 💻
