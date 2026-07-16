@@ -18,5 +18,6 @@ Welcome! This repository is a cozy space where I track my daily progress as I le
 * **Day 11**: Started with basic game building.
 * **Day 12**: Working on it.
 * **Day 13**: Started with file I/O
+* **Day 13**: worked more with file.
 ---
 *“Consistency is key!”* 💻
