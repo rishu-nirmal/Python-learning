@@ -21,5 +21,6 @@ Welcome! This repository is a cozy space where I track my daily progress as I le
 * **Day 14**: worked more with file.
 * **Day 15**: Started with oops.
 * **Day 16**: More with oops.
+* **Day 16**: Practised question.
 ---
 *“Consistency is key!”* 💻
